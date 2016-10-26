@@ -1,0 +1,80 @@
+{
+    pedidos: [{
+        info: {
+            tipo_pago: 1,
+            total_pedido: 50000,
+            tienda: {
+                identificador: '3'
+            },
+            cliente: {
+                apellidos: 'Reyes Polo',
+                nombre: 'mirlan',
+                dirreccion: 'dsdsdsdsddsdsdsdsdssds',
+                identificacion: '45454545454',
+                direccion:'dsdsdsdsddsdsdsdsdssds',
+                celular:'3103636365',
+                fijo:'6654544'
+            },
+            descripcion: [{
+                nombre: 'jajaja',
+                cantidad: 5,
+                valor: 1000
+            }, {
+                nombre: 'jajaja',
+                cantidad: 5,
+                valor: 1000
+            }],
+            id: 'ws_ped'
+        },
+        empresa: [{
+            latitud: 345,
+            referencia: 'fdfdfd',
+            direccion: 'fdfdfd',
+            nit: '322sd',
+            fijo: '',
+            id: 3,
+            longitud: 453,
+            celular: ''
+        }],
+        id: 73
+    }, {
+        info: {
+            tipo_pago: 1,
+            total_pedido: 50000,
+            tienda: {
+                identificador: '3'
+            },
+            cliente: {
+                apellidos: 'Reyes Polo',
+                nombre: 'mirlan',
+                dirreccion: 'dsdsdsdsddsdsdsdsdssds',
+                identificacion:'45454545454',
+                direccion:'dsdsdsdsddsdsdsdsdssds',
+                celular:'3103636365',
+                fijo:'6654544'
+            },
+            descripcion: [{
+                nombre: 'jajaja',
+                cantidad: 5,
+                valor: 1000
+            }, {
+                nombre: 'jajaja',
+                cantidad: 5,
+                valor: 1000
+            }],
+            id: 'ws_ped'
+        },
+        empresa: [{
+            latitud: 345,
+            referencia: 'fdfdfd',
+            direccion: 'fdfdfd',
+            nit: '322sd',
+            fijo: '',
+            id: 3,
+            longitud: 453,
+            celular: ''
+        }],
+        id: 74
+    }],
+    tipo: 2
+}
